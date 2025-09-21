@@ -2,4 +2,5 @@
 
 Usage :
 
-<img width="1012" height="227" alt="image" src="https://github.com/user-attachments/assets/9084b379-5c2f-44f0-a68d-fe521adf9c69" />
+
+<img width="934" height="742" alt="image" src="https://github.com/user-attachments/assets/06b2c3b4-4443-4322-910e-bc21270d7851" />
