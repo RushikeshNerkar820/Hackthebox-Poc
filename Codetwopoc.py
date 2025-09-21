@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 """
+Made by : 0xRushi
 
+Discord : @rushikeshitachi
+
+
+usage : python3 Codetwopoc.py -u http://10.10.11.82:8000/ -l 10.10.14.124 -p 4444  
 
 """
 
